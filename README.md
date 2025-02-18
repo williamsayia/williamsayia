@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **REST APIs**
 
-- 📫 How to reach me **williamsonsayia7@gmail.com**
-
 - ⚡ Fun fact **I tried React once… then Vue stole my heart!**
 
 <h3 align="left">Connect with me:</h3>
