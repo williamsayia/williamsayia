@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Cloud**
 
-- 💬 Ask me about **REST APIs**
+- 💬 Ask me about **REST APIs, SOAP APIs**
 
 - ⚡ Fun fact **I tried React once… then Vue stole my heart!**
 
